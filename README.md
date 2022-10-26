@@ -1,1 +1,1 @@
-# python_package_test
+# Game folder for PyPi package
